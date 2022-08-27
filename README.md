@@ -30,7 +30,7 @@ If you need to play on a newer Minecraft version, you can install the Flatpak fr
 
 1. [Set up Flatpak](https://flatpak.org/setup/);
 2. Download the [latest bundle release](https://github.com/Spacc-Inc/com.teamshiginima.ShiginimaLauncherJRE8/releases/latest) of the launcher;
-3. Open a terminal and run:
+3. In a terminal, run:
     ```bash
     flatpak install ShiginimaLauncherJRE8-v4.400-*-x86_64.flatpak
     ```
@@ -41,10 +41,10 @@ You're good to go! You can find `Shiginima Launcher (Java 8)` under `Application
 
 ### Uninstalling
 
-In a terminal window, run:
-    ```bash
-    flatpak uninstall com.teamshiginima.ShiginimaLauncherJRE8
-    ```
+In a terminal, run:
+```bash
+flatpak uninstall com.teamshiginima.ShiginimaLauncherJRE8
+```
 
 Additionally, if you want to delete the Minecraft files themselves, including worlds, mods, shaders, etc. you'll have to delete this folder as well: `~/.var/app/com.teamshiginima.ShiginimaLauncherJRE8/`.
 
