@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component type="desktop-application">
-  <id>com.teamshiginima.ShiginimaLauncher</id>
-  <name>Shiginima Launcher</name>
-  <launchable type="desktop-id">com.teamshiginima.ShiginimaLauncher.desktop</launchable>
+  <id>com.teamshiginima.ShiginimaLauncherJRE8</id>
+  <name>Shiginima Launcher (Java 8)</name>
+  <launchable type="desktop-id">com.teamshiginima.ShiginimaLauncherJRE8.desktop</launchable>
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>LicenseRef-proprietary</project_license>
   <developer_name>Team Shiginima</developer_name>
-  <summary>Alternative Minecraft launcher</summary>
-  <description><p>The Shiginima Launcher is here to provide all with equal opportunity to experience minecraft, the worlds most popular sandbox game!</p></description>
-  <url type="homepage">https://teamshiginima.com/</url>
+  <summary>Alternative Minecraft launcher (Java 8 runtime)</summary>
+  <description><p>The Shiginima Launcher is here to provide all with equal opportunity to experience Minecraft, the world's most popular sandbox game!</p></description>
+  <url type="homepage">https://github.com/Spacc-Inc/com.teamshiginima.ShiginimaLauncherJRE8</url>
   <content_rating type="oars-1.0">
     <content_attribute id="violence-cartoon">moderate</content_attribute>
     <content_attribute id="violence-fantasy">none</content_attribute>
@@ -32,9 +32,6 @@
     <content_attribute id="money-gambling">none</content_attribute>
   </content_rating>
   <releases>
-    <release date="2021-09-25" version="4.400-b2021-09-25"/>
-    <release date="2021-07-03" version="4.400-b2021-07-03"/>
-    <release date="2021-06-12" version="4.400-b2021-06-12"/>
-    <release date="2020-01-31" version="4.400"/>
+    <release date="2022-08-27" version="4.400-2022-08-27"/>
   </releases>
 </component>
